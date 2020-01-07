@@ -1,4 +1,4 @@
-# piano_bootleg_scores
+# Piano Bootleg Scores
 
 This repository contains pre-computed bootleg score features for all piano scores in the IMSLP dataset.
 
